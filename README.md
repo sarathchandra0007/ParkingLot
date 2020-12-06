@@ -27,7 +27,7 @@ Virtual env installation link - **https://packaging.python.org/guides/installing
 1. Clone the project
 2. Create virtual env ```python3 -m venv env```
 3. Activate virtual env ```source env/bin/activate```
-4. Run ```python3 parking_lot.py input.txt``` . **Input.txt** is passes
+4. Run ```python3 parking_lot.py input.txt``` . **Input.txt** is passed
 as an argument. This file contains all the instructions.
 5. Run ```python3 test.py``` to run test cases.
 
